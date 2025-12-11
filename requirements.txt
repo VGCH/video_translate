@@ -1,0 +1,14 @@
+torch
+whisper-openai
+transformers
+soundfile
+librosa
+numpy
+num2words
+moviepy
+silero
+pydub
+ffmpeg-python
+sacremoses
+moviepy
+sentencepiece
