@@ -22,8 +22,19 @@ speech_translator/
 
 Для работы приложения необходимо установить следующие зависимости/пакеты:
 Набор библиотек FFmpeg:
+Linux
 ```no-highlight
 sudo apt install ffmpeg
+```
+
+Windows
+```no-highlight
+scoop install ffmpeg
+```
+
+MacOS
+```no-highlight
+brew install ffmpeg
 ```
 
 Установка необходимых библиотек Python3:
