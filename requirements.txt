@@ -8,6 +8,7 @@ num2words
 moviepy
 silero
 pydub
+pygame
 ffmpeg-python
 sacremoses
 moviepy
