@@ -59,3 +59,5 @@ python3 main.py
 Полное описание в статье на Хабр
 
 [Ссылка на статью ](https://habr.com/ru/articles/971644/)
+
+[Поддержать донатом ](https://dalink.to/cyberex_tech)
